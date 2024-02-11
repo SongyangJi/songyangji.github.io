@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as c,c as r}from"./app-_B3WXR86.js";const a={};function t(_,o){return c(),r("div")}const s=e(a,[["render",t],["__file","Buffer-Cache-和-Page-Cache.html.vue"]]);export{s as default};
