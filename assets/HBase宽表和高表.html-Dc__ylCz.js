@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o,c as _,b as e}from"./app-CN-Tp3xY.js";const s={},c=e("blockquote",null,[e("p",null,"https://www.jianshu.com/p/5da27663817b")],-1),n=[c];function a(l,r){return o(),_("div",null,n)}const u=t(s,[["render",a],["__file","HBase宽表和高表.html.vue"]]);export{u as default};

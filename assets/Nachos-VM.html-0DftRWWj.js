@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as c,c as o}from"./app-CN-Tp3xY.js";const t={};function r(_,s){return c(),o("div")}const f=e(t,[["render",r],["__file","Nachos-VM.html.vue"]]);export{f as default};

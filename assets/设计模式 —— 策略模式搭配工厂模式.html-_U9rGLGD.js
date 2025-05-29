@@ -1,0 +1,1 @@
+import{_}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as e,c as t,b as o}from"./app-CN-Tp3xY.js";const c={},s=o("p",null,"https://juejin.cn/post/6844903985850089480",-1),n=[s];function r(a,l){return e(),t("div",null,n)}const m=_(c,[["render",r],["__file","设计模式 —— 策略模式搭配工厂模式.html.vue"]]);export{m as default};
